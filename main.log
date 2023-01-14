@@ -1,0 +1,5 @@
+date_time: 2023-01-14 15:16:51.784975, name_function: hello_world, value: ((), {}), result: Hello World
+date_time: 2023-01-14 15:16:51.785975, name_function: summator, value: ((2, 2), {}), result: 4
+date_time: 2023-01-14 15:16:51.786976, name_function: div, value: ((6, 2), {}), result: 3.0
+date_time: 2023-01-14 15:16:51.786976, name_function: summator, value: ((4.3,), {'b': 2.2}), result: 6.5
+date_time: 2023-01-14 15:16:51.787976, name_function: summator, value: ((), {'a': 0, 'b': 0}), result: 0
